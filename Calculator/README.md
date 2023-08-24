@@ -1,5 +1,3 @@
-# readme.md
-
 ## Description
 
 This program is a simple calculator that can perform the following arithmetic operations:
